@@ -1,8 +1,6 @@
 # Last Circle — a battle-royale slice in Godot 4 (task-23)
 
-A small PUBG-style shooter built the task-23 way: a real animated 3D
-character (CC0 KayKit model), bots with a wander→chase→shoot brain, a
-shrinking zone, host/join multiplayer, and a last-one-standing win.
+I HATE THIS GAME
 
 ## Play it
 
