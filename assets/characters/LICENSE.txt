@@ -1,0 +1,4 @@
+Knight.glb and Rogue.glb are from the "KayKit Character Pack: Adventurers"
+by Kay Lousberg (kaylousberg.com), licensed CC0 1.0 Universal (public
+domain) — free for personal and commercial use, no attribution required
+(but appreciated). Source: github.com/KayKit-Game-Assets
